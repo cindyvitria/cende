@@ -21,3 +21,7 @@ int main(){
 	
 	TV.fungsi("gasan meatur TV");
 }
+
+void remote::fungsi(string fungsi){
+	cout << "Fungsi Remote TV "<<fungsi<< " !!"<<endl;
+}
